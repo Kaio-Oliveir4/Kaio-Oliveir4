@@ -41,4 +41,3 @@
   </a>
 </div>
 
-![snake gif](https://github.com/Kaio-Oliveir4/Kaio-Oliveir4/blob/output/github-contribution-grid-snake.gif)
