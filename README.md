@@ -1,9 +1,15 @@
 
-<h1 align="left">Hello! My name is Kaio Oliveira, i am a student programmer looking to learn more about technology!💻📚</h1>
+<h1 align="left">Hello😄!! My name is Kaio Oliveira, I am a student programmer looking to learn more about technology!💻📚</h1>
+
+<h2 align="left">About Me</h2>
+
+###
+
+<p align="left">I am a dedicated software developer 💻 with a passion for building efficient, high-quality applications 🚀. With a strong foundation in Agile practices 🔄, I thrive in collaborative environments 🤝 and am always eager to learn new technologies 📚. My background in Quality Assurance 🛠️ has sharpened my attention to detail 🔍 and commitment to delivering reliable software solutions ✅. I'm driven by a continuous desire to grow 🌱 and contribute to dynamic development teams 👨‍💻👩‍💻.</p>
+
+###
 
 <h2 align="left">Stats</h2>
-
-
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Kaio-Oliveir4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
