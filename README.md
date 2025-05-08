@@ -1,11 +1,11 @@
 
-<h1 align="left">Hello😄!! My name is Kaio Oliveira, I am a student programmer looking to learn more about technology!💻📚</h1>
+<h1 align="left">Hello!! My name is Kaio Oliveira, I am a student programmer looking to learn more about technology!</h1>
 
 <h2 align="left">About Me</h2>
 
 ###
 
-<p align="left">I am a dedicated software developer 💻 with a passion for building efficient, high-quality applications 🚀. With a strong foundation in Agile practices 🔄, I thrive in collaborative environments 🤝 and am always eager to learn new technologies 📚. My background in Quality Assurance 🛠️ has sharpened my attention to detail 🔍 and commitment to delivering reliable software solutions ✅. I'm driven by a continuous desire to grow 🌱 and contribute to dynamic development teams 👨‍💻👩‍💻.</p>
+<p align="left">I am a dedicated software developer with a passion for building efficient, high-quality applications. With a strong foundation in Agile practices , I thrive in collaborative environments  and am always eager to learn new technologies . My background in Quality Assurance  has sharpened my attention to detail and commitment to delivering reliable software solutions . I'm driven by a continuous desire to grow and contribute to dynamic development teams.</p>
 
 ###
 
